@@ -1,43 +1,27 @@
-# 👜 Bag Price Prediction - Playground Series S5E2 (Kaggle)
+# 🌟 Kaggle Working Repository
+<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="120"/>
 
-This project is a machine learning regression task based on the Kaggle competition **[Playground Series - Season 5, Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)**. The goal is to predict the **price of bags** using structured product features.
-
->  Current best RMSE: `38.26` using **Lasso Regression**
-
----
-
-##  Model Comparison (RMSE)
-
-| Model                     | RMSE     |
-|--------------------------|----------|
-| **Lasso Regression**     | 38.26 ✅ |
-| Ridge Regression         | 38.27    |
-| Linear Regression        | 38.27    |
-| Gradient Boosting Regr.  | 38.33    |
-| XGBoost Regressor        | 40.46    |
-| Decision Tree Regressor  | 55.17 ❌ |
+This repository contains all my Kaggle-related work including dataset exploration, machine learning notebooks, deep learning experiments, and end-to-end AI projects.  
+It serves as a personal workspace for learning, experimenting, and implementing various data science and machine learning techniques.
 
 ---
-## 🧪 Evaluation Metric
 
-The competition uses **Root Mean Squared Error (RMSE)**:
-```math
-RMSE = sqrt(mean((ytrue - ypred)^2))
-```
----
-## Contributions
-This is an open experimental notebook. Feel free to fork and:
+## 📌 About This Repository
 
-Try different algorithms
+This repo is a centralized hub for:
 
-Tune the preprocessing pipeline
+- Kaggle competitions  
+- Dataset exploration (EDA)  
+- Machine Learning model building  
+- Deep Learning experiments (CNNs, Transfer Learning, NLP)  
+- Model evaluation & comparison  
+- End-to-end workflow notebooks  
+- Practice code & experiments  
 
-Explore model stacking or feature engineering
-
-Pull requests are welcome!
+Both beginner-friendly and advanced notebooks are included.
 
 ---
-## Pranav Uniyal
+# [Pranav Uniyal](https://www.kaggle.com/fall2fire)
 
 
 
