@@ -1,5 +1,5 @@
 # 🌟 Kaggle Working Repository
-<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="120"/>
+[<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="120"/>](https://www.kaggle.com/fall2fire)
 
 This repository contains all my Kaggle-related work including dataset exploration, machine learning notebooks, deep learning experiments, and end-to-end AI projects.  
 It serves as a personal workspace for learning, experimenting, and implementing various data science and machine learning techniques.
